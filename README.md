@@ -2,7 +2,7 @@
 
 - 🏢 I’m currently working at Vodafone
 - 🌍 I'm based in Istanbul, Turkey
-- ✉️ You can contact me at furkankocc@protonmail.com
+- ✉️ You can contact me at furkankocc52@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-furkannkocc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/furkannkocc/)](https://www.linkedin.com/in/furkannkocc/)
 [![Twitter Badge](https://img.shields.io/badge/-Furkann_kocc-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Furkann_kocc)](https://twitter.com/Furkann_kocc)
